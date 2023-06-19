@@ -1,0 +1,17 @@
+.user_Login{
+    width: 100%;
+    display: flex;
+    justify-items: center;
+    margin: 50px;
+    input{
+        padding: 10px;
+        margin-left: 15px;
+    }
+    .button_log{
+        padding: 5px;
+        cursor: pointer;
+        background-color: gray;
+        border-radius: 10%;
+        color: aliceblue;
+    }
+}
